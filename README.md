@@ -1,6 +1,6 @@
 # SystemR
 
-![SystemR](https://github.com/Clashnewbme/SystemR/blob/master/images/logo.png)
+![SystemR](https://github.com/Clashnewbme/systemR/blob/master/images/logo.png)
 
 SystemR is a modified Arch Linux live cd. It is build as a rescue tool. I was looking for a Live CD to install Arch Linux.  I decided to build my own rescue tool, after I realized how easy it is to compile and customize your own Arch Linux iso.
 
