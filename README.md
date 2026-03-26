@@ -1,6 +1,6 @@
 <img width="612" height="408" alt="Image" src="https://github.com/user-attachments/assets/5d23bed5-6f11-485a-a506-5db6f19aa10f" />
 
-SystemR is a modified Arch Linux live cd. It was built originally as a rescue tool but has expanded heavily. I was looking for a Live CD to install Arch Linux.  I decided to build my own rescue tool, after I realized how easy it is to compile and customize your own Arch Linux iso.
+CherryR is a modified Arch Linux live cd. It was built originally as a "reaserch" tool but has expanded heavily. I was looking for a Live CD to install Arch Linux.  I decided to build my own rescue tool, after I realized how easy it is to compile and customize your own Arch Linux iso.
 
 It is configured to boot into a LXDE desktop using an
 unprivilged user. You can use **sudo** to get root priviges. It uses fish as default shell. tmux is configured with mouse support. I have no plans to keep the iso small.
@@ -82,7 +82,7 @@ pacman -S archiso
 Clone this Repository
 
 ```bash
-git clone https://github.com/Clashnewbme/systemR.git
+git clone https://github.com/Clashnewbme/CherryR.git
 ```
 
 Run the buidl script.
