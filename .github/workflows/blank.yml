@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install dependencies
+      - name: Setup Arch
         run: |
           pacman -Sy --noconfirm archiso
 
